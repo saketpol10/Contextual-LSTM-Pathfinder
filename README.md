@@ -1,5 +1,5 @@
-Contextual LSTM Pathfinder 📖
-LSTM-based Literary Language Modeling and Word Prediction
+# Contextual LSTM Pathfinder 📖
+### LSTM-based Literary Language Modeling and Word Prediction
 
 This project implements a deep learning-based language model using Long Short-Term Memory (LSTM) networks to generate context-aware next-word predictions. The model is trained on Shakespeare’s Hamlet to learn literary language patterns and produce coherent text suggestions.
 
