@@ -33,6 +33,7 @@ Gradio – Interactive UI for predictions
 ├── LSTM_word.keras      # Trained model  
 ├── tokenizer.pickle     # Tokenizer for preprocessing  
 ├── hamlet.txt           # Training dataset  
+```
 
 ## Installation
 ```bash
