@@ -27,7 +27,6 @@ Gradio – Interactive UI for predictions
 
 ## Project Structure
 ```
-
 ├── Project.ipynb        # Model training and experimentation  
 ├── run.py               # Script to run predictions  
 ├── LSTM_word.keras      # Trained model  
